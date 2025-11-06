@@ -119,7 +119,7 @@ java -cp bin visual.MainWindow
 
 | Difficulty | Grid Size | Total Cells | Mines | Mine Density |
 |-----------|-----------|-------------|-------|--------------|
-| Easy      | 8x8       | 64          | 13    | 18.25%       |
+| Easy      | 8x8       | 64          | 20    | 31.25%       |
 | Medium    | 15x15     | 225         | 60    | 26.67%       |
 | Hard      | 20x20     | 400         | 120   | 30.00%       |
 
