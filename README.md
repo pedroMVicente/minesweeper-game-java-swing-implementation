@@ -6,7 +6,7 @@ A fully-featured Minesweeper game built with Java Swing, featuring a custom UI, 
 
 This is a complete implementation of the classic Minesweeper puzzle game where players must uncover all safe cells on a grid while avoiding hidden mines. The game features an intuitive graphical interface with three difficulty levels and real-time mine counting.
 
-## ✨ Key Features
+## Key Features
 
 - **Three Difficulty Levels**:
   - 🟢 **Easy**: 8x8 grid with 20 mines
